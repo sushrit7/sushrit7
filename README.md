@@ -3,6 +3,7 @@
 🎓 Master of Science in Computer Science (May '25) @ Southern Illinois University Edwardsville  
 🧠 AWS Certified | AI/ML Enthusiast | Generative AI Researcher | Time Series Forecasting  
 📍 Currently based in the U.S. | Open to AI/ML & Software Engineering Opportunities
+
 ---
 ## 🧠 About Me
 
@@ -10,12 +11,14 @@
 - 🤖 Built **AI-powered forecasting, prediction intervals**, and multivariate time series models for environmental datasets.
 - 🧪 Worked on projects involving **LLMs**, **agentic AI**, and **AWS services** like SageMaker, Lambda, S3, and more.
 - 🏆 3rd place @ eHacks 2024 for building `RandomFlix`, a movie recommender using Streamlit & ML.
+  
 ---
 ## 📜 Certifications
 
 - ✅ **AWS Certified Machine Learning – Associate** *(May 2025)*  
 - 📊 Meta Backend Developer Certification  
 - 📚 Ongoing: Deep dive into Generative AI & AI Infrastructure Engineering
+  
 ---
 ## 📫 Let's Connect
 
