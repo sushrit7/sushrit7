@@ -33,7 +33,7 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sushritkafle/)
+- 💼 [LinkedIn](http://linkedin.com/in/sushrit-kafle/)
 - 🧠 [Portfolio](https://sushrit7.github.io/portfolio/)
 - 📧 Email: sushrit.k@gmail.com
 
