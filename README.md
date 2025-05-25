@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Sushrit Kafle
 
-🎓 Graduate Student in Computer Science @ Southern Illinois University Edwardsville  
-🧠 AI/ML Enthusiast | Generative AI Researcher | Time Series Forecasting | AWS Certified  
+🎓 Master of Science in Computer Science (May '25) @ Southern Illinois University Edwardsville  
+🧠 AWS Certified | AI/ML Enthusiast | Generative AI Researcher | Time Series Forecasting  
 📍 Currently based in the U.S. | Open to AI/ML & Software Engineering Opportunities
 
 ---
@@ -12,7 +12,15 @@
 - 🤖 Built **AI-powered forecasting, prediction intervals**, and multivariate time series models for environmental datasets.
 - 🧪 Worked on projects involving **LLMs**, **agentic AI**, and **AWS services** like SageMaker, Lambda, S3, and more.
 - 🏆 3rd place @ eHacks 2024 for building `RandomFlix`, a movie recommender using Streamlit & ML.
+  
+---
 
+## 📜 Certifications
+
+- ✅ **AWS Certified Machine Learning – Associate** *(May 2025)*  
+- 📊 Meta Backend Developer Certification  
+- 📚 Ongoing: Deep dive into Generative AI & AI Infrastructure Engineering
+  
 ---
 
 ## 💼 Skills & Tools
@@ -23,35 +31,12 @@
 **Data & Infra**: AWS (SageMaker, Lambda, S3, EMR), Docker, Git, Spark  
 **Other Tools**: VS Code, Jupyter, Streamlit, LaTeX, Pandas, NumPy, Matplotlib
 
----
-
-## 📂 Projects
-
-- 🔬 [Marine Fog Nowcasting with GenAI](https://github.com/<your-username>/marine-fog-nowcasting)  
-  Multivariate time series forecasting with GRU + Monte Carlo dropout on Grand Banks datasets.
-
-- 🎞️ [RandomFlix Recommender](https://github.com/<your-username>/randomflix)  
-  Built at eHacks using ML + Streamlit for random personalized movie suggestions.
-
-- 📈 [US Flight Network Resilience](https://github.com/<your-username>/flight-network-analysis)  
-  Graph-based complex network analysis of U.S. airport connectivity and percolation resilience.
-
----
-
-## 📜 Certifications
-
-- ✅ **AWS Certified Machine Learning – Associate** *(May 2025)*  
-- 📊 Meta Backend Developer Certification  
-- 📚 Ongoing: Deep dive into Generative AI & AI Infrastructure Engineering
-
----
-
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sushritkafle/)
-- 🧠 [Portfolio](https://github.com/<your-username>?tab=repositories)
-- 📧 Email: sushrit.kafle@gmail.com
+- 🧠 [Portfolio](https://sushrit7.github.io/portfolio/)
+- 📧 Email: sushrit.k@gmail.com
 
 ---
 
-⭐ *“I build intelligent systems that learn from data and make real-world impact.”*
+⭐ *“I build intelligent systems that learn from data and make a real-world impact.”*
