@@ -13,11 +13,12 @@
 - 🏆 3rd place @ eHacks 2024 for building `RandomFlix`, a movie recommender using Streamlit & ML.
   
 ---
-## 📜 Certifications
+## 📜 Certifications and Awards
 
 - ✅ **AWS Certified Machine Learning – Associate** *(May 2025)*  
 - 📊 Meta Backend Developer Certification  
 - 📚 Ongoing: Deep dive into Generative AI & AI Infrastructure Engineering
+- Outstanding Graduate Student in Computer Science (2025)
   
 ---
 ## 📫 Let's Connect
